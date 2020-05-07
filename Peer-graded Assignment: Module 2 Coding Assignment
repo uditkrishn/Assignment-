@@ -1,0 +1,13 @@
+#content {
+  
+  border: 2px solid black;	 
+  background-color: #99c1d6;
+  margin-right: 15px;
+  
+}
+
+#box {
+   border: 2px solid black;
+  background-color: #99c1d6;
+  margin-right: 15px;
+}
